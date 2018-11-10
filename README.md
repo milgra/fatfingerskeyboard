@@ -15,7 +15,8 @@ Double tap shift to turn on caps mode.
 Fat fingers comes totally free, so if you like it please help me make more awesome utilities and donate in the app / on my homepage.
 
 App Store link : <https://itunes.apple.com/hu/app/fat-fingers-keyboard/id1441263425?mt=8>
-Homepage/Comments : <milgra.com/http://www.milgra.com/fat-fingers-keyboard.html>
+
+Homepage/Comments : <http://www.milgra.com/fat-fingers-keyboard.html>
 
 ---
 
