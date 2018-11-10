@@ -1,0 +1,7 @@
+- check if backspace deletes continuously
+- check simple shift, double shift
+- check if touch zones work next to leftmost/rightmost keys
+- check if empty mapping fields work
+- check if two-page accent ribbon works
+- check if landscape keyboard works
+- check if in-app purchase works
