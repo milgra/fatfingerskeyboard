@@ -5,3 +5,17 @@
 - check if two-page accent ribbon works
 - check if landscape keyboard works
 - check if in-app purchase works
+
+---
+
+todo
+
+- hang kikapcsolas
+- scharfes s problem
+- auto capitalization?
+- kisbetu/nagybetu switching
+- utolso bill szurkites tunjon el 100ms utan
+- ios 11
+- foreign language layout
+- & jel ketszer van, euro nincs is
+- kulon textfield shift es nem shiftnek?
