@@ -1,5 +1,7 @@
 # Fat Fingers Keyboard - No More Typos!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGBVBMO95N8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Free and Open Source keyboard for iOS
 
 Fat Fingers Keyboard knows when you mistype and doesn't let the bad character in. It also shows you the bad touch point so you can improve your grip. After a few minutes you will start to type faster than ever.
