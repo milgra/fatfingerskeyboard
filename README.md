@@ -1,6 +1,6 @@
 # Fat Fingers Keyboard - No More Typos!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HGBVBMO95N8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Check it out on youtube](https://www.youtube.com/watch?v=HGBVBMO95N8)
 
 Free and Open Source keyboard for iOS
 
